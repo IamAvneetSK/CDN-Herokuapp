@@ -1,2 +1,3 @@
-# CDN-Herokuapp
-CDN for herokuapp wordpress
+#File server
+Storing Files...
+Dont skip the route.
